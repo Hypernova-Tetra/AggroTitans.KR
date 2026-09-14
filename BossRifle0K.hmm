@@ -95,12 +95,6 @@ Code "Supreme Dynamics" by "Hypernova" rewritten by "Gordon Ramsay"
 				bool isRifleBeast = (GameManager.GetGameObject("RifleBeast0") != null);
 				bool gameModeBattleRush = (GameMode.GetName() == "GameModeBattleRush");
 				
-				if (Lua.Call<int>("IsPlayingDiEvent", "bo4111") == 1)
-				{ 
-					pkinematics->Position = new System.Numerics.Vector3(-19.3f, 316.8f, -60.5f);
-					pkinematics->Rotation = new System.Numerics.Quaternion(0.0f, 0.701707f, 0.0f, 0.701707f);
-				}
-				
 				if (Lua.Call<int>("IsPlayingDiEvent", "bo4141") == 1)
 				{ 		
 					pkinematics->Position = new System.Numerics.Vector3(-19.3f, 316.8f, -60.5f);

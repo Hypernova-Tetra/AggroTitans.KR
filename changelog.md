@@ -1,6 +1,12 @@
-# **Aggro-Titans KR Edition** - 2026.09.09
+# **Aggro-Titans KR Edition** - 2026.09.14
 
-* Current 7z Compressed Mod File Size: "1.42GB"
+* Current 7z Compressed Mod File Size: "1.37GB"
+
+
+
+#### **1.01 (Patch)**
+
+* Fixed a visual issue where the yellow Chaos Emerald shows up during Wyvern's Missile QTE outside of the failure scene.
 
 
 
