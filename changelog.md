@@ -8,6 +8,7 @@
 
 * Fixed a visual issue where the yellow Chaos Emerald shows up during Wyvern's Missile QTE outside of the failure scene.
 * Fixed an issue with an event scene in the base game where Sage taking over Supreme did not take place at the correct location.
+* Adjusted BossRush.pac Titan HP values.
 
 
 
