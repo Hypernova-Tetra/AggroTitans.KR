@@ -63,7 +63,6 @@ add Main/raw/misc/bossrush.pac
 add Main/raw/movie/bo2115.usm
 add Main/raw/movie/bo4140.usm
 add Main/raw/movie/bo4141.usm
-add Main/raw/movie/bo4142.usm
 add Main/raw/movie/bo4162.usm
 add Main/raw/movie/bo6090.usm
 add Main/raw/movie/bo6091.usm
@@ -146,8 +145,11 @@ add BossGiant0K.hmm
 add BossDragon0L.hmm
 add BossKnight0L.hmm
 add BossRifle0K.hmm
-add BossRifleBeast.hmm
+add BossRifleSpDmg+.hmm
+add BossRifleBK.hmm
 add BossRush.hmm
 add BossSonicComboTweaks.hmm
 add mod.ini
 add CombatDX.dll
+
+delete BossRifleBeast.hmm
