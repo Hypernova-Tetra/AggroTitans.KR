@@ -80,21 +80,21 @@ Code "Supreme Dynamics" by "Hypernova" rewritten by "Gordon Ramsay"
 		string eventName = evtPlayer->GetCurrentEventName();
 		
 		bool ZevRifle = ((evtPlayer != null) && (GameManager.GetGameObject("Rifle0") != null))
-		if (!ZevRifle) // This check is probably more expensive, so let's do it later
+		if (!ZevRifle)
 			return;
 		{	
 			WriteProtected<byte>(AdCyAtk, System.Text.Encoding.UTF8.GetBytes("cyloop_counter"));
 			WriteProtected<byte>(AdCyPry, System.Text.Encoding.UTF8.GetBytes("cyloop_counter_parry"));
 			
 			string gameModeName = GameMode.GetName();
-			if (gameModeName == "GameModeBattleRush")
+			bool gameModeBattleRush = gameModeName == "GameModeBattleRush"
+			if (gameModeBattleRush)
 			{ WriteProtected<byte>(ATSHOT3, System.Text.Encoding.UTF8.GetBytes("zev_rfl_start00")); }
 			
 			if (evtPlayer == null)
 				return;
 			{		
 				bool isRifleBeast = (GameManager.GetGameObject("RifleBeast0") != null);
-				bool gameModeBattleRush = (gameModeName == "GameModeBattleRush");
 				
 				if (Lua.Call<int>("IsPlayingDiEvent", "bo4141") == 1)
 				{ 		
