@@ -9,6 +9,7 @@
 #### **- 2026.10.27**
 
 * Wyvern fixes
+* Fixed missing DvElementAura params in Wyvern's Psycho QTE (and variants in this mod) that simply did not exist since the game's launch.
 
 
 
