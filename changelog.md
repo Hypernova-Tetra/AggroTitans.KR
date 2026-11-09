@@ -1,44 +1,46 @@
-# **Aggravated Bosses (KR)** Open Playtest
+# **Aggravated Bosses (Kronos Reimagined Edition)**
 
 * Current 7z Compressed Mod File Size: "1.63GB"
 
+#### 
+
+###### **1.10 (2026.11.08)**
+
+**Formerly known as "Aggro Titans"**
+
+* Happy 4 Years to Sonic Frontiers!
 
 
-#### **β.04**
 
-#### **- 2026.11.06**
+###### **β.04 - 2026.11.06**
 
 * Fixed several issues across Titan events that previously had a variety of issues occur.
 
+###### 
 
-
-#### **β.03**
-
-#### **- 2026.11.03**
+###### **β.03** **- 2026.11.03**
 
 * Fixed an error that occurs when the "WingLaser" option set to "Off" plays the wrong scene.
 * BossCommon.pac updated to reflect this change.
 
+###### 
 
-
-#### **β.02**
-
-#### **- 2026.10.28**
+###### **β.02** **- 2026.10.28**
 
 * Fixed a small issue with Supreme where Battle Rush would play the wrong events in Phase 1.
 
+###### 
 
+###### **β.01** 
 
-#### **β.01**
-
-#### **- 2026.10.27**
+###### **- 2026.10.27**
 
 * Wyvern fixes
 * Fixed missing DvElementAura params in Wyvern's Psycho QTE (and variants in this mod) that simply did not exist since the game's launch.
 
 
 
-#### **- 2026.10.26**
+###### **- 2026.10.26**
 
 * Re-Merged Add-on Sound Options in to the mod: Only "Original" and "Sound Edit" are available.
 * Adjusted script files.
@@ -51,7 +53,7 @@
 
 
 
-#### **β.00 - 2026.10.04**
+###### **β.00 - 2026.10.04**
 
 * Bumped version number for Open Playtest Release.
 * Tweaked how much damage Wyvern takes during events.
@@ -68,7 +70,7 @@
 
 
 
-#### **1.01 (Patch)**
+###### **1.01 Patch**
 
 * Fixed a visual issue where the yellow Chaos Emerald shows up during Wyvern's Missile QTE outside of the failure scene.
 * Fixed an issue with an event scene in the base game where Sage taking over Supreme did not take place at the correct location.
@@ -77,7 +79,7 @@
 
 
 
-#### **1.00 (Release Update)**
+###### **1.00 Release**
 
 * Added Server Link to update through HMM
 
