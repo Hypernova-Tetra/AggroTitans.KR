@@ -4,7 +4,7 @@
 
 #### 
 
-###### **1.10 (2026.11.08)**
+##### **1.10 (2026.11.08)**
 
 **Formerly known as "Aggro Titans"**
 
@@ -12,26 +12,26 @@
 
 
 
-###### **β.04 - 2026.11.06**
+##### **β.04 - 2026.11.06**
 
 * Fixed several issues across Titan events that previously had a variety of issues occur.
 
 ###### 
 
-###### **β.03** **- 2026.11.03**
+##### **β.03** **- 2026.11.03**
 
 * Fixed an error that occurs when the "WingLaser" option set to "Off" plays the wrong scene.
 * BossCommon.pac updated to reflect this change.
 
 ###### 
 
-###### **β.02** **- 2026.10.28**
+##### **β.02** **- 2026.10.28**
 
 * Fixed a small issue with Supreme where Battle Rush would play the wrong events in Phase 1.
 
 ###### 
 
-###### **β.01**
+##### **β.01**
 
 ###### **- 2026.10.27**
 
@@ -53,7 +53,7 @@
 
 
 
-###### **β.00 - 2026.10.04**
+##### **β.00 - 2026.10.04**
 
 * Bumped version number for Open Playtest Release.
 * Tweaked how much damage Wyvern takes during events.
@@ -66,11 +66,9 @@
 
 
 
-## **Aggro-Titans**
+##### **Aggro-Titans**
 
-
-
-###### **1.01 Patch**
+##### **1.01 Patch**
 
 * Fixed a visual issue where the yellow Chaos Emerald shows up during Wyvern's Missile QTE outside of the failure scene.
 * Fixed an issue with an event scene in the base game where Sage taking over Supreme did not take place at the correct location.
@@ -79,13 +77,13 @@
 
 
 
-###### **1.00 Release**
+##### **1.00 Release**
 
 * Added Server Link to update through HMM
 
 
 
-#### **Initial Release**
+##### **Initial Release**
 
 * Restructured the Aggro Titans mod to use fewer custom code scripts and built it around the Kronos Reimagined Mod.
 * Reverted certain features in to Folder toggles instead of code toggles.
